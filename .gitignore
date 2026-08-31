@@ -1,0 +1,12 @@
+# Maxfiy tokenlar fayli
+.env
+
+# Virtual muhit papkasi
+venv/
+
+# Python kesh fayllari
+__pycache__/
+*.pyc
+
+# VS Code sozlamalari
+.vscode/
